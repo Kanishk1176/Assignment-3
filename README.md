@@ -1,8 +1,8 @@
 # Assignment-3
-This repository contains the solutions for **Task 1** and **Task 2** of the Assignment-2.
+This repository contains the solutions for **Task 1** and **Task 2** of the Assignment-3.
 
 ## Files in this repository
-- **Assignment3_task1.py** – Claculates the factorial of any number using a loop.  
+- **Assignment3_task1.py** – Calculates the factorial of any number using a loop.  
 - **Assignment3_task2.py** – Calculates the square root, natural logarithm & sine of a given number using the 'maths' module.
 
 ## Description
